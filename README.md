@@ -6,6 +6,10 @@ Damage numbers in the style of MapleStory or World of Warcraft.
 |---|---|
 | ![MapleStory style](docs/maple.gif) | ![World of Warcraft style](docs/wow.gif) |
 
+In game, MapleStory style with the image burst on:
+
+![In game](docs/in-game.png)
+
 ## Features
 
 - **Two styles**
